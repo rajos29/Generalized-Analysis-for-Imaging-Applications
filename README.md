@@ -4,6 +4,8 @@ GAIA is a Python/OpenCV/Qt workstation for exploratory analysis of image-like se
 
 The current MVP focuses on fast visual inspection, foundational image processing, template matching, annotation notes, metrics export, and experiment/report packaging.
 
+<img width="1317" height="162" alt="ascii-art-text (2)" src="https://github.com/user-attachments/assets/d8e4afbc-6dcd-4ee7-8fab-57d670e10f44" />
+
 ## Primary App
 
 Run this file:
