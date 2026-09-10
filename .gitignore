@@ -1,0 +1,66 @@
+# Python/runtime artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Local environments and dependency folders
+.venv/
+venv/
+env/
+.env
+.env.*
+!.env.example
+site-packages/
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Old prototype branding assets
+assets/synthwave_*
+
+# Local/private workflow notes
+MEMORY.md
+LOG.md
+
+# Raw datasets and large local imagery
+data/
+datasets/
+dataset/
+IDRT application dataset/
+*.tif
+*.tiff
+*.ome.tif
+*.ome.tiff
+*.h5
+*.hdf5
+*.avi
+*.mp4
+*.mov
+*.wmv
+
+# Experiment/session exports can be regenerated locally
+experiments/
+exports/
+logs/
+
+# Earlier prototypes not needed for the GitHub-facing application package
+legacy_*.py
+legacy_gaia_mvp0.py
+microscope_fast_qt_platform.py
+image_processing_core.py
+microscope_derivative_viewer.py
+microscope_scientific_platform.py
+run_microscope_scientific_platform.bat
+
+# Generated analysis outputs. These may contain source/derived imagery and
+# should be shared separately only when the dataset terms allow it.
+reports/
