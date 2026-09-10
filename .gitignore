@@ -27,10 +27,6 @@ desktop.ini
 # Old prototype branding assets
 assets/synthwave_*
 
-# Local/private workflow notes
-MEMORY.md
-LOG.md
-
 # Raw datasets and large local imagery
 data/
 datasets/
